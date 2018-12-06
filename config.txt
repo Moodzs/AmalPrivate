@@ -1,0 +1,6 @@
+token=NTIwMzE2OTQzMjY2NDgwMTU5.DusP4A.tJH1H5RPbuWppnVQB7oTglVG7zo
+owner=502748478267719681
+prefix=A
+game=Amal Music
+stayinchannel=true
+songinstatus=false
